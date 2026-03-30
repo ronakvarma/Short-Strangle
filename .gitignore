@@ -1,10 +1,6 @@
 # Data files (too large for GitHub)
 *.csv
 
-# Generated output files
-*.xlsx
-*.png
-
 # macOS
 .DS_Store
 
