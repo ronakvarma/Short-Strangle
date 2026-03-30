@@ -1,0 +1,15 @@
+# Data files (too large for GitHub)
+*.csv
+
+# Generated output files
+*.xlsx
+*.png
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
